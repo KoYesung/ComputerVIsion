@@ -16,7 +16,12 @@
 <h4> ✔ Object Detection Model </h4>
 <p>- YOLOv5</p>
 
+<h4>✔ custom.yaml</h4>
+<img width="600" alt="image" src="https://github.com/KoYesung/ComputerVIsion/assets/131944189/3e6df39c-4bb0-4ab3-9656-d62df3c9d6ad">
+
 <br>
+
+
 
 ✨ 결과 확인
 ---
